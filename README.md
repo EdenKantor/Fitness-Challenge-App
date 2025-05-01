@@ -70,5 +70,5 @@ Throughout the development of WebFitPro, I improved my understanding of:
 
 
   
-
+---
 > _"Built with health, motivation, and clean code in mind."_
