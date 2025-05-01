@@ -67,6 +67,8 @@ Throughout the development of WebFitPro, I improved my understanding of:
 - Allow image uploads for user profiles and shared challenges
 - Expand admin permissions and analytics
 - Convert codebase to TypeScript for better scalability and maintainability
+
+
   
 
 > _"Built with health, motivation, and clean code in mind."_
